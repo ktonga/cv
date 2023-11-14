@@ -55,9 +55,32 @@ teams on new technologies and couch less experienced developers.
 
 ## Experience
 
+### Zip Co Limited (Sydney, Australia)
+
+- **Engineering Manager** (January 2020 - February 2021)
+  
+  Zip acquired a German company called Spotcap to power their line of credit for SMEs product.
+  I was appointed as the technical leader to execute the integration of Spotcap's technology into Zip's ecosystem of products.
+
+  **Tasks I had to perform/lead**
+
+  - Go through a multi-week workshop for knowledge transferring to learn about the acquired technology
+  - Orchestrate with other teams the soft integration of the new product (Zip products would redirect the user to the existing Spotcap instance)
+  - Migrate Spotcap instance to Zip's infrastructure
+  - Thorough rebranding of the product (domains, front-end apps, marketing website, comms, etc)
+  - In depth integration of the new technology to power some aspects of Zip's products more directly
+
+  **Technologies**
+
+  - Scala
+  - JavaScript/Node.js
+  - MySQL
+  - WordPress
+  - AWS
+
 ### BrickX (Sydney, Australia)
 
-- **Head Of Engineering** (February 2019 - Present)
+- **Head Of Engineering** (February 2019 - January 2020)
 
   On top of my responsibilities as Principal Engineer, my responsibilities as
   Head of Engineering are:
