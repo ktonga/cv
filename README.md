@@ -48,8 +48,8 @@ teams on new technologies and couch less experienced developers.
 ## Main Technologies
 
 - Haskell, Servant, MTL, lens, amazonka, cabal
-- Scala, scalaz, zio, http4s, argonaut, doobie, sbt
-- AWS, ECS, S3, RDS, SQS, CloudFormation
+- Scala, cats/scalaz, zio, http4s, circe/argonaut, doobie/skunk, sbt
+- AWS, ECS, S3, RDS, SQS, CloudFormation, GCP, Terraform
 - PostgreSQL, Redis, Kafka, ElasticSearch, Cassandra, MongoDB
 - Linux, Git, Nix, Docker
 
