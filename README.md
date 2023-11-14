@@ -55,6 +55,26 @@ teams on new technologies and couch less experienced developers.
 
 ## Experience
 
+### April (Sydney, Australia)
+
+- **Senior Backend Developer** (February 2021 - Present)
+
+  Working on the APIs that power white label BNPL for merchants and embedded finance for financial institutions.
+
+  **Responsibilities and achievements**
+
+  - Define and propagate coding best practices and styles with a focus on readability, extensibility and testability.
+  - Reduce complexity and simplify maintainability of the codebase via continuous refactoring
+  - Design, implement and adopt shared modules for solving cross-cutting concerns such as: HTTP authentication and authorization, error handling, structural logging, database access, etc.
+  - Optimize CI/CD pipeline to reduce running time and resources usage
+  - Integrate with third-party providers to enable some of our functionality such as: debt collection and support for payments via bank transfer, direct debit and pay-to
+
+  **Technologies**
+
+  - Scala, FP stack with cats, ZIO, tapir, http4s
+  - MongoDB, Kafka, Redis
+  - Google Cloud, Terraform, Kubernetes
+
 ### Zip Co Limited (Sydney, Australia)
 
 - **Engineering Manager** (January 2020 - February 2021)
